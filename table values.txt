@@ -1,0 +1,723 @@
+t = 
+
+    "k=0 , lambda = 0.010000, training set size = 10, MSE = 0.403113 "
+
+
+t = 
+
+    "k=0 , lambda = 0.010000, training set size = 50, MSE = 0.575139 "
+
+
+t = 
+
+    "k=0 , lambda = 0.010000, training set size = 100, MSE = 0.481568 "
+
+
+t = 
+
+    "k=0 , lambda = 0.010000, training set size = 150, MSE = 0.488775 "
+
+
+t = 
+
+    "k=0 , lambda = 0.010000, training set size = 200, MSE = 0.497500 "
+
+
+t = 
+
+    "k=0 , lambda = 0.100000, training set size = 10, MSE = 0.610645 "
+
+
+t = 
+
+    "k=0 , lambda = 0.100000, training set size = 50, MSE = 0.511285 "
+
+
+t = 
+
+    "k=0 , lambda = 0.100000, training set size = 100, MSE = 0.462170 "
+
+
+t = 
+
+    "k=0 , lambda = 0.100000, training set size = 150, MSE = 0.488043 "
+
+
+t = 
+
+    "k=0 , lambda = 0.100000, training set size = 200, MSE = 0.497500 "
+
+
+t = 
+
+    "k=0 , lambda = 0.000000, training set size = 10, MSE = 0.463267 "
+
+
+t = 
+
+    "k=0 , lambda = 0.000000, training set size = 50, MSE = 0.480023 "
+
+
+t = 
+
+    "k=0 , lambda = 0.000000, training set size = 100, MSE = 0.466475 "
+
+
+t = 
+
+    "k=0 , lambda = 0.000000, training set size = 150, MSE = 0.492486 "
+
+
+t = 
+
+    "k=0 , lambda = 0.000000, training set size = 200, MSE = 0.497500 "
+
+
+t = 
+
+    "k=0 , lambda = 1.000000, training set size = 10, MSE = 0.693185 "
+
+
+t = 
+
+    "k=0 , lambda = 1.000000, training set size = 50, MSE = 0.473539 "
+
+
+t = 
+
+    "k=0 , lambda = 1.000000, training set size = 100, MSE = 0.544336 "
+
+
+t = 
+
+    "k=0 , lambda = 1.000000, training set size = 150, MSE = 0.501886 "
+
+
+t = 
+
+    "k=0 , lambda = 1.000000, training set size = 200, MSE = 0.497500 "
+
+
+t = 
+
+    "k=0 , lambda = 5.000000, training set size = 10, MSE = 0.475487 "
+
+
+t = 
+
+    "k=0 , lambda = 5.000000, training set size = 50, MSE = 0.415944 "
+
+
+t = 
+
+    "k=0 , lambda = 5.000000, training set size = 100, MSE = 0.498132 "
+
+
+t = 
+
+    "k=0 , lambda = 5.000000, training set size = 150, MSE = 0.498928 "
+
+
+t = 
+
+    "k=0 , lambda = 5.000000, training set size = 200, MSE = 0.497500 "
+
+
+ans = 
+
+    "k=1 , lambda = 0.010000, training set size = 10, MSE = 0.262177 
+     "
+
+
+ans = 
+
+    "k=1 , lambda = 0.010000, training set size = 50, MSE = 0.246759 
+     "
+
+
+ans = 
+
+    "k=1 , lambda = 0.010000, training set size = 100, MSE = 0.176173 
+     "
+
+
+ans = 
+
+    "k=1 , lambda = 0.010000, training set size = 150, MSE = 0.197394 
+     "
+
+
+ans = 
+
+    "k=1 , lambda = 0.010000, training set size = 200, MSE = 0.199612 
+     "
+
+
+ans = 
+
+    "k=1 , lambda = 0.100000, training set size = 10, MSE = 0.124641 
+     "
+
+
+ans = 
+
+    "k=1 , lambda = 0.100000, training set size = 50, MSE = 0.225961 
+     "
+
+
+ans = 
+
+    "k=1 , lambda = 0.100000, training set size = 100, MSE = 0.213663 
+     "
+
+
+ans = 
+
+    "k=1 , lambda = 0.100000, training set size = 150, MSE = 0.204843 
+     "
+
+
+ans = 
+
+    "k=1 , lambda = 0.100000, training set size = 200, MSE = 0.199623 
+     "
+
+
+ans = 
+
+    "k=1 , lambda = 0.000000, training set size = 10, MSE = 0.246910 
+     "
+
+
+ans = 
+
+    "k=1 , lambda = 0.000000, training set size = 50, MSE = 0.177183 
+     "
+
+
+ans = 
+
+    "k=1 , lambda = 0.000000, training set size = 100, MSE = 0.198912 
+     "
+
+
+ans = 
+
+    "k=1 , lambda = 0.000000, training set size = 150, MSE = 0.187704 
+     "
+
+
+ans = 
+
+    "k=1 , lambda = 0.000000, training set size = 200, MSE = 0.199612 
+     "
+
+
+ans = 
+
+    "k=1 , lambda = 1.000000, training set size = 10, MSE = 0.327638 
+     "
+
+
+ans = 
+
+    "k=1 , lambda = 1.000000, training set size = 50, MSE = 0.193268 
+     "
+
+
+ans = 
+
+    "k=1 , lambda = 1.000000, training set size = 100, MSE = 0.205654 
+     "
+
+
+ans = 
+
+    "k=1 , lambda = 1.000000, training set size = 150, MSE = 0.193390 
+     "
+
+
+ans = 
+
+    "k=1 , lambda = 1.000000, training set size = 200, MSE = 0.200549 
+     "
+
+
+ans = 
+
+    "k=1 , lambda = 5.000000, training set size = 10, MSE = 0.282016 
+     "
+
+
+ans = 
+
+    "k=1 , lambda = 5.000000, training set size = 50, MSE = 0.278174 
+     "
+
+
+ans = 
+
+    "k=1 , lambda = 5.000000, training set size = 100, MSE = 0.235904 
+     "
+
+
+ans = 
+
+    "k=1 , lambda = 5.000000, training set size = 150, MSE = 0.223962 
+     "
+
+
+ans = 
+
+    "k=1 , lambda = 5.000000, training set size = 200, MSE = 0.215234 
+     "
+
+
+ans = 
+
+    "k=2 , lambda = 0.010000, training set size = 10, MSE = 0.246724 
+     "
+
+
+ans = 
+
+    "k=2 , lambda = 0.010000, training set size = 50, MSE = 0.195860 
+     "
+
+
+ans = 
+
+    "k=2 , lambda = 0.010000, training set size = 100, MSE = 0.188799 
+     "
+
+
+ans = 
+
+    "k=2 , lambda = 0.010000, training set size = 150, MSE = 0.180694 
+     "
+
+
+ans = 
+
+    "k=2 , lambda = 0.010000, training set size = 200, MSE = 0.199614 
+     "
+
+
+ans = 
+
+    "k=2 , lambda = 0.100000, training set size = 10, MSE = 0.102182 
+     "
+
+
+ans = 
+
+    "k=2 , lambda = 0.100000, training set size = 50, MSE = 0.200399 
+     "
+
+
+ans = 
+
+    "k=2 , lambda = 0.100000, training set size = 100, MSE = 0.210041 
+     "
+
+
+ans = 
+
+    "k=2 , lambda = 0.100000, training set size = 150, MSE = 0.208207 
+     "
+
+
+ans = 
+
+    "k=2 , lambda = 0.100000, training set size = 200, MSE = 0.199733 
+     "
+
+
+ans = 
+
+    "k=2 , lambda = 0.000000, training set size = 10, MSE = 0.021989 
+     "
+
+
+ans = 
+
+    "k=2 , lambda = 0.000000, training set size = 50, MSE = 0.157673 
+     "
+
+
+ans = 
+
+    "k=2 , lambda = 0.000000, training set size = 100, MSE = 0.185322 
+     "
+
+
+ans = 
+
+    "k=2 , lambda = 0.000000, training set size = 150, MSE = 0.198447 
+     "
+
+
+ans = 
+
+    "k=2 , lambda = 0.000000, training set size = 200, MSE = 0.199612 
+     "
+
+
+ans = 
+
+    "k=2 , lambda = 1.000000, training set size = 10, MSE = 0.240681 
+     "
+
+
+ans = 
+
+    "k=2 , lambda = 1.000000, training set size = 50, MSE = 0.215148 
+     "
+
+
+ans = 
+
+    "k=2 , lambda = 1.000000, training set size = 100, MSE = 0.183940 
+     "
+
+
+ans = 
+
+    "k=2 , lambda = 1.000000, training set size = 150, MSE = 0.202359 
+     "
+
+
+ans = 
+
+    "k=2 , lambda = 1.000000, training set size = 200, MSE = 0.201950 
+     "
+
+
+ans = 
+
+    "k=2 , lambda = 5.000000, training set size = 10, MSE = 0.470893 
+     "
+
+
+ans = 
+
+    "k=2 , lambda = 5.000000, training set size = 50, MSE = 0.212890 
+     "
+
+
+ans = 
+
+    "k=2 , lambda = 5.000000, training set size = 100, MSE = 0.181807 
+     "
+
+
+ans = 
+
+    "k=2 , lambda = 5.000000, training set size = 150, MSE = 0.219945 
+     "
+
+
+ans = 
+
+    "k=2 , lambda = 5.000000, training set size = 200, MSE = 0.208490 
+     "
+
+
+ans = 
+
+    "k=3 , lambda = 0.010000, training set size = 10, MSE = 0.037860 
+     "
+
+
+ans = 
+
+    "k=3 , lambda = 0.010000, training set size = 50, MSE = 0.086547 
+     "
+
+
+ans = 
+
+    "k=3 , lambda = 0.010000, training set size = 100, MSE = 0.050895 
+     "
+
+
+ans = 
+
+    "k=3 , lambda = 0.010000, training set size = 150, MSE = 0.036151 
+     "
+
+
+ans = 
+
+    "k=3 , lambda = 0.010000, training set size = 200, MSE = 0.025244 
+     "
+
+
+ans = 
+
+    "k=3 , lambda = 0.100000, training set size = 10, MSE = 0.233829 
+     "
+
+
+ans = 
+
+    "k=3 , lambda = 0.100000, training set size = 50, MSE = 0.156597 
+     "
+
+
+ans = 
+
+    "k=3 , lambda = 0.100000, training set size = 100, MSE = 0.140490 
+     "
+
+
+ans = 
+
+    "k=3 , lambda = 0.100000, training set size = 150, MSE = 0.141536 
+     "
+
+
+ans = 
+
+    "k=3 , lambda = 0.100000, training set size = 200, MSE = 0.133559 
+     "
+
+
+ans = 
+
+    "k=3 , lambda = 0.000000, training set size = 10, MSE = 0.002468 
+     "
+
+
+ans = 
+
+    "k=3 , lambda = 0.000000, training set size = 50, MSE = 0.003652 
+     "
+
+
+ans = 
+
+    "k=3 , lambda = 0.000000, training set size = 100, MSE = 0.004159 
+     "
+
+
+ans = 
+
+    "k=3 , lambda = 0.000000, training set size = 150, MSE = 0.004688 
+     "
+
+
+ans = 
+
+    "k=3 , lambda = 0.000000, training set size = 200, MSE = 0.004574 
+     "
+
+
+ans = 
+
+    "k=3 , lambda = 1.000000, training set size = 10, MSE = 0.167330 
+     "
+
+
+ans = 
+
+    "k=3 , lambda = 1.000000, training set size = 50, MSE = 0.205317 
+     "
+
+
+ans = 
+
+    "k=3 , lambda = 1.000000, training set size = 100, MSE = 0.208699 
+     "
+
+
+ans = 
+
+    "k=3 , lambda = 1.000000, training set size = 150, MSE = 0.207809 
+     "
+
+
+ans = 
+
+    "k=3 , lambda = 1.000000, training set size = 200, MSE = 0.188695 
+     "
+
+
+ans = 
+
+    "k=3 , lambda = 5.000000, training set size = 10, MSE = 0.070482 
+     "
+
+
+ans = 
+
+    "k=3 , lambda = 5.000000, training set size = 50, MSE = 0.245350 
+     "
+
+
+ans = 
+
+    "k=3 , lambda = 5.000000, training set size = 100, MSE = 0.215875 
+     "
+
+
+ans = 
+
+    "k=3 , lambda = 5.000000, training set size = 150, MSE = 0.233615 
+     "
+
+
+ans = 
+
+    "k=3 , lambda = 5.000000, training set size = 200, MSE = 0.211447 
+     "
+
+
+ans = 
+
+    "k=9 , lambda = 0.010000, training set size = 10, MSE = 0.076666 
+     "
+
+
+ans = 
+
+    "k=9 , lambda = 0.010000, training set size = 50, MSE = 0.025999 
+     "
+
+
+ans = 
+
+    "k=9 , lambda = 0.010000, training set size = 100, MSE = 0.014510 
+     "
+
+
+ans = 
+
+    "k=9 , lambda = 0.010000, training set size = 150, MSE = 0.008579 
+     "
+
+
+ans = 
+
+    "k=9 , lambda = 0.010000, training set size = 200, MSE = 0.006105 
+     "
+
+
+ans = 
+
+    "k=9 , lambda = 0.100000, training set size = 10, MSE = 0.068346 
+     "
+
+
+ans = 
+
+    "k=9 , lambda = 0.100000, training set size = 50, MSE = 0.044673 
+     "
+
+
+ans = 
+
+    "k=9 , lambda = 0.100000, training set size = 100, MSE = 0.060501 
+     "
+
+
+ans = 
+
+    "k=9 , lambda = 0.100000, training set size = 150, MSE = 0.053840 
+     "
+
+
+ans = 
+
+    "k=9 , lambda = 0.100000, training set size = 200, MSE = 0.045902 
+     "
+
+
+ans = 
+
+    "k=9 , lambda = 0.000000, training set size = 10, MSE = 0.000000 
+     "
+
+
+ans = 
+
+    "k=9 , lambda = 0.000000, training set size = 50, MSE = 0.000000 
+     "
+
+
+ans = 
+
+    "k=9 , lambda = 0.000000, training set size = 100, MSE = 0.000000 
+     "
+
+
+ans = 
+
+    "k=9 , lambda = 0.000000, training set size = 150, MSE = 0.000000 
+     "
+
+
+ans = 
+
+    "k=9 , lambda = 0.000000, training set size = 200, MSE = 0.000000 
+     "
+
+
+ans = 
+
+    "k=9 , lambda = 1.000000, training set size = 10, MSE = 0.128932 
+     "
+
+
+ans = 
+
+    "k=9 , lambda = 1.000000, training set size = 50, MSE = 0.132415 
+     "
+
+
+ans = 
+
+    "k=9 , lambda = 1.000000, training set size = 100, MSE = 0.094432 
+     "
+
+
+ans = 
+
+    "k=9 , lambda = 1.000000, training set size = 150, MSE = 0.096497 
+     "
+
+
+ans = 
+
+    "k=9 , lambda = 1.000000, training set size = 200, MSE = 0.090140 
+     "
+
+
+ans = 
+
+    "k=9 , lambda = 5.000000, training set size = 10, MSE = 0.406646 
+     "
+
+
+ans = 
+
+    "k=9 , lambda = 5.000000, training set size = 50, MSE = 0.240280 
+     "
+
+
+ans = 
+
+    "k=9 , lambda = 5.000000, training set size = 100, MSE = 0.174071 
+     "
+
+
+ans = 
+
+    "k=9 , lambda = 5.000000, training set size = 150, MSE = 0.155180 
+     "
+
+
+ans = 
+
+    "k=9 , lambda = 5.000000, training set size = 200, MSE = 0.139787 
+     "
